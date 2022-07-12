@@ -1,9 +1,10 @@
-# sdo[nv
-  # Github: sd[PNF
+# README generator
   =========================================================================================
-  # Email: d[snv
+  # Github: CoreyStuart
   =========================================================================================
-  # Short descrpition: aofs[nv 
+  # Email: c.stuart21@yahoo.com
+  =========================================================================================
+  # Short descrpition: This was just to create a README using JavaScript.  
   =========================================================================================
   # License choice: MIT
   =========================================================================================
@@ -11,6 +12,6 @@
   =========================================================================================
   # Test choice: npm test
   =========================================================================================
-  # User's update about using repo: da[ovkn
+  # User's update about using repo: Just do not mess it up and don't use my repo while we're at it.
   =========================================================================================
-  # What does the user need to know about contributing to the repo: dpsv
+  # What does the user need to know about contributing to the repo: I don't need you.
