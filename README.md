@@ -1,10 +1,10 @@
-# README generator
+# The README creator
   =========================================================================================
   # Github: CoreyStuart
   =========================================================================================
   # Email: c.stuart21@yahoo.com
   =========================================================================================
-  # Short descrpition: This was just to create a README using JavaScript.  
+  # Short description: Homework assignment with this video that took me way too long too figure out how to do 
   =========================================================================================
   # License choice: MIT
   =========================================================================================
@@ -12,6 +12,9 @@
   =========================================================================================
   # Test choice: npm test
   =========================================================================================
-  # User's update about using repo: Just do not mess it up and don't use my repo while we're at it.
+  # User's update about using repo: Don't touch it
   =========================================================================================
-  # What does the user need to know about contributing to the repo: I don't need you.
+  # What does the user need to know about contributing to the repo: Samething don't touch it
+
+
+https://drive.google.com/file/d/1KPT5L-_M0LFN49F7BLqhvkGA_KOeQ9bl/view
